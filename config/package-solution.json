@@ -1,0 +1,23 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "wgo-bireports-v-2-client-side-solution",
+    "id": "9d1970f3-8e83-4a2d-9daf-b038f92848eb",
+    "version": "2.0.0.2",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": false,
+    "features": [
+      {
+        "title": "WGO Power BI Reports Version II",
+        "description": "Provides tiles for WGO Bi Reports",
+        "id": "b8b1375a-a924-492e-a611-590118e4a7cf",
+        "version": "2.0.0.2"
+        
+        }
+      
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/wgo-bireports-v-2.sppkg"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "wgo-bi-reports-v-2-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/wgoBiReportsV2/WgoBiReportsV2WebPart.js",
+          "manifest": "./src/webparts/wgoBiReportsV2/WgoBiReportsV2WebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "WgoBiReportsV2WebPartStrings": "lib/webparts/wgoBiReportsV2/loc/{locale}.js"
+  }
+}

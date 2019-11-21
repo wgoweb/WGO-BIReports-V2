@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "wgo-bireports-v-2",
+    "libraryId": "9d1970f3-8e83-4a2d-9daf-b038f92848eb",
+    "environment": "spo"
+  }
+}
